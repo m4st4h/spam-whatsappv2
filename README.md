@@ -9,4 +9,3 @@ $ cd spam-whatsappv2
 $ pip install -r requirements
 $ python wa.py
 ```
-<b>Get token [click here](https://bit.ly/3myW5t6)</b>
